@@ -4,7 +4,7 @@
 
 int main(int argc, char const *argv[]) {
   printf("Hello, World!\n" );
-  printf("My Name is Daniel\n");
-  printf("I am Going 200mph\n");
+  printf("We are Daniel and Peter\n");
+  printf("I am Going 500 mph\n");
   return 0;
 }
